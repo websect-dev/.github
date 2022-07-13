@@ -12,7 +12,7 @@
 <table>
     <tr>
         <td align="center">
-            <img src="./assets/team/iskander.jpeg" width="100"  style="margin-bottom: -4px; border-radius: 8px;"
+            <img src="https://github.com/websect-itmo/.github/blob/main/profile/assets/team/iskander.jpeg?raw=true" width="100"  style="margin-bottom: -4px; border-radius: 8px;"
                 alt="Искандер Кудашев"/>
                 <br />
                 <b>Искандер Кудашев</b>
@@ -24,20 +24,20 @@
                     <img
                         width="16"
                         height="16"
-                        src="./assets/images/github.svg"/>
+                        src="https://raw.githubusercontent.com/websect-itmo/.github/main/profile/assets/images/github.svg"/>
                         </a>
                 <a
                     href="https://t.me/faggod"
                     title="Telegram"
                     ><img
                         width="16"
-                        src="./assets/images/telegram.svg"
+                        src="https://raw.githubusercontent.com/websect-itmo/.github/main/profile/assets/images/telegram.svg"
                 /></a>
             </div>
         </td>
         <td align="center">
                 <img
-                    src="./assets/team/sasha.jpeg"
+                    src="https://github.com/websect-itmo/.github/blob/main/profile/assets/team/sasha.jpeg?raw=true"
                     width="100"
                     style="margin-bottom: -4px; border-radius: 8px;"
                     alt="Александр Мирошниченко"
@@ -49,13 +49,13 @@
                     > <img
                         width="16"
                         height="16"
-                        src="./assets/images/github.svg"/></a>
+                        src="https://raw.githubusercontent.com/websect-itmo/.github/main/profile/assets/images/github.svg"/></a>
                 <a
                     href="https://t.me/sashafromlibertalia"
                     title="Telegram"
                     ><img
                         width="16"
-                        src="./assets/images/telegram.svg"
+                        src="https://raw.githubusercontent.com/websect-itmo/.github/main/profile/assets/images/telegram.svg"
                 /></a>
             </div>
         </td>
@@ -66,6 +66,6 @@
 
 <div>
 <a href="https://t.me/faggod">
-<img height="40" alt="enter" src="./assets/images/button.svg"/>
+<img height="40" alt="enter" src="https://raw.githubusercontent.com/websect-itmo/.github/main/profile/assets/images/button.svg"/>
 </a>
 </div>
