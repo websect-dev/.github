@@ -66,6 +66,6 @@
 
 <div>
 <a href="https://t.me/faggod">
-<img height="40" alt="enter" src="./../assets/images/enter.png"/>
+<img height="40" alt="enter" src="./../assets/images/button.svg"/>
 </a>
 </div>
