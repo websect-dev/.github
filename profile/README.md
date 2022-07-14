@@ -18,7 +18,7 @@
 <table>
     <tr>
         <td align="center">
-            <img src="https://github.com/websect-itmo/.github/blob/main/profile/assets/team/iskander.jpeg?raw=true" height="220" width="170"  style="margin-bottom: -4px; border-radius: 8px;"
+            <img src="https://github.com/websect-itmo/.github/blob/main/profile/assets/team/iskander.jpeg?raw=true" height="220" style="margin-bottom: -4px; border-radius: 8px;"
                 alt="Искандер Кудашев"/>
                 <br />
                 <b>Искандер Кудашев</b>
@@ -46,7 +46,6 @@
                 <img
                     src="https://github.com/websect-itmo/.github/blob/main/profile/assets/team/sasha.jpeg?raw=true"
                      height="220"
-                    width="170"
                     style="margin-bottom: -4px; border-radius: 8px;"
                     alt="Александр Мирошниченко"
                 /><br /><b>Александр Мирошниченко</b>
